@@ -22,7 +22,7 @@ header{
     font-size: 24px;
  }
 
- .joalheria{
+ .escola-imagem{
    width: 23%;
 }
 
@@ -36,9 +36,9 @@ header{
    padding: 24px 0;
 }
 
-.joalheria{
+.escola-div-conteudo{
    width: 35%;
 }
-.sobre-nos-titulo-titulo{
+.escola-titulo{
    padding: 24px 0;
 }
